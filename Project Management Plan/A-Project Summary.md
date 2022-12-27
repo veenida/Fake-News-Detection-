@@ -14,6 +14,6 @@
 
 **Objectives:**
 
-*To develop an artificial intelligence system that are able to detect Malaysia car number plate<br>
-*To develop a system that are able to recognize the character of the car number plate<br>
-*To develop an application programming interface (API) for the future ease of use as the integration module<br>
+* To develop an artificial intelligence system that are able to detect Malaysia car number plate<br>
+* To develop a system that are able to recognize the character of the car number plate<br>
+* To develop an application programming interface (API) for the future ease of use as the integration module<br>
