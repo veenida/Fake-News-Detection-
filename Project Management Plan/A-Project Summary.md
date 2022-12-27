@@ -8,9 +8,9 @@
 
 **Team Members:**
 
-VEENIDA A/P SUBON  B032020045
-BEH KAH SOON B032010466
-MUHAMMAD HAZIQ ISKANDAR BIN HANIZAL B032010443
+VEENIDA A/P SUBON  B032020045<br>
+BEH KAH SOON B032010466<br>
+MUHAMMAD HAZIQ ISKANDAR BIN HANIZAL B032010443<br>
 
 Objectives:
 To develop an artificial intelligence system that are able to detect Malaysia car number plate
