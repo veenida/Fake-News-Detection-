@@ -12,7 +12,7 @@
 
 **Project Summary**
 
-**Problem Statement**
+**Problem Statement**<br>
 In this day and age, it is extremely difficult to decide whether the news we come
 across is real or not. There are very few options to check the authenticity and all of
 them are sophisticated and not accessible to the average person. There is an acute
