@@ -7,10 +7,11 @@
 **Project Name: FAKE NEWS DETECTION**
 
 **Team Members:**
-QUEK YAO JING B031810136
-TAN WEN XIANG B031810179
-TANG LI HO B031810122
-MERVYN LIM ZHE XI B031810201
+
+VEENIDA A/P SUBON  B032020045
+BEH KAH SOON B032010466
+MUHAMMAD HAZIQ ISKANDAR BIN HANIZAL B032010443
+
 Objectives:
 To develop an artificial intelligence system that are able to detect Malaysia car number plate
 To develop a system that are able to recognize the character of the car number plate
