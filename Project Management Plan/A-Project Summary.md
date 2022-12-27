@@ -21,6 +21,6 @@ Learning to provide us with that opportunity.
 
 **Objectives:**
 
-* To develop an artificial intelligence system that are able to detect Malaysia car number plate<br>
-* To develop a system that are able to recognize the character of the car number plate<br>
-* To develop an application programming interface (API) for the future ease of use as the integration module<br>
+* To implement multiple model to identify fake news using text documents<br>
+* To develop an artificial intelligence system that are able to detect fake news and genuine news.<br>
+* To solve the issue of fake news spreading on the internet<br>
