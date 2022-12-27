@@ -1,2 +1,2 @@
-# Fake-News-Detection-
+# Fake-News-Detection
 Using machine learning and python
