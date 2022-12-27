@@ -10,7 +10,7 @@ We change the way of how people think about AI and change their life habit.
 # OUR TEAM
 **CHIEF EXECUTIVE OFFICIAL (CEO)**
 
-<img src="assets/nieda.jpeg" width="200" height="auto" />
+<img src="assets/nieda.jpg" width="200" height="auto" />
 
 **VEENIDA A/P SUBON**
 
