@@ -10,7 +10,7 @@ We change the way of how people think about AI and change their life habit.
 # OUR TEAM
 **CHIEF EXECUTIVE OFFICIAL (CEO)**
 
-<img src="/assets/nieda.jpg" width="300" height="300" />
+<img src="/assets/nieda.jpg" width="300" height="auto" />
 
 **VEENIDA A/P SUBON**
 
@@ -23,7 +23,7 @@ Make sure project meet the dateline
 
 **CHIEF OPERATING OFFICIAL (COO)**
 
-
+<img src="/assets/karsoon.jpg" width="300" height="auto" />
 
 **BEH KAR SOON**
 
@@ -37,7 +37,7 @@ Maintain public relations with other members of the company
 
 **CHIEF FINANCIAL OFFICIAL (CFO)**
 
-
+<img src="/assets/haziq.jpg" width="300" height="auto" />
 
 **MUHAMMAD HAZIQ ISKANDAR BIN HANIZAL**
 
