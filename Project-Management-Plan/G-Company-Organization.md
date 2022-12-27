@@ -4,7 +4,7 @@ A group of eager UTeM students that are interested in AI founded this startup. T
 # OUR MISSION
 BRING CUTTING EDGE ARTIFICIAL INTELLIGENCE(AI) TECHNOLOGY TO THE COMMUNITY AND DAILY LIFE
 
-Innovation
+# Innovation
 We change the way of how people think about AI and change their life habit.
 
 # OUR TEAM
