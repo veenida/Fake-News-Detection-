@@ -10,7 +10,7 @@
 2. BEH KAH SOON  (B032010466)<br>
 3. MUHAMMAD HAZIQ ISKANDAR BIN HANIZAL  (B032010443)<br>
 
-**Project Summary :**
+## Project Summary :
 
 In this modernized era lead by science and technology, the spread of information evolves with the advancement of technology. If before this, we need to read newspaper and watch the news on television, we now can access all of it with a single touch on smart devices. From news to reports, everything are now shared online on the internet and can be access by anyone at anytime. However, this results in an issue that gathers the attention of researchers and scientist. It is how to sort out the fake news and the genuine news. The spread of false information can caused a lot of bad things to happen. Even with good encryption and filter on what information can be passed on the internet, there will still be some that escape and be accessed by everyone. This may caused clash in the unity of people around the world if the 
 wrong information involves cultural mockery.
