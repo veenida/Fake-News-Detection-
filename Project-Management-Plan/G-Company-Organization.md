@@ -39,7 +39,7 @@ Maintain public relations with other members of the company
 
 
 
-TAN WEN XIANG
+**MUHAMMAD HAZIQ ISKANDAR BIN HANIZAL**
 
 **Responsiblity :**
 
