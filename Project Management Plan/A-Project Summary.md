@@ -24,3 +24,16 @@ Learning to provide us with that opportunity.
 * To implement multiple model to identify fake news using text documents<br>
 * To develop an artificial intelligence system that are able to detect fake news and genuine news.<br>
 * To solve the issue of fake news spreading on the internet<br>
+
+**Project Significance**
+
+This project will examine the performance of various models in the process of classifying fake news from text document using multiple machine learning models 
+and performance measures.
+
+**Conclusion**
+
+In conclusion, this project will use a Machine Learning model to classify fake news using text document of fake news and real news. We will compare and choose 
+the best appropriate model for classifying the detection of fake news when we have completed all of the models.
+
+
+
