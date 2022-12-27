@@ -6,28 +6,28 @@ To better structure the project's lifecycle, the project is produced using a Pro
 
 # Project Management Plan 
 
-#Project Summary: Project Summary
+**Project Summary:** Project Summary
 
 The brief of the project overview, objectives and team members details.
 
-Project Planning: Project Planning
+**Project Planning:** Project Planning
 
-Planning processes include devising and maintaining a workable scheme to ensure that the project addresses the organization’s needs. Gantt Chart, Work Breakdown Structure(WBS) is documented in this phase.
+Planning processes include developing and implementing a workable scheme to guarantee that the project meets the needs of the company. This phase includes the creation of a Gantt chart and a Work Breakdown Structure (WBS).
 
-Project Implementation: Project Implementaion
+**Project Implementation:** Project Implementaion
 
-Project Implementation define the project deliverables which included software requirement, Intelligent system architecture and etc.
+Project implementation specifies the project deliverables, such as software requirements and intelligent system design.
 
-Project Execution: Project Execution
+**Project Execution:** Project Execution
 
-Project Execution is the execution phase where the result, coding blocks and technical implementation is defined and documented.
+The project execution phase is where the outcome, coding blocks, and technical implementation are defined and documented.
 
-Project Closing: Project Closing
+**Project Closing:** Project Closing
 
-Project Closing indicate the end of the project lifecycle where the project need to document closing document and lesson learnt report.
+Project Closing denotes the end of the project lifecycle, at which point the project must document the closing document and the lesson learned report.
 
-Project Presentation: Project Presentation
+**Project Presentation:** Project Presentation
 
-Project Presentation shows the demonstration of the car plate recognition system developed by QTMT INC.
+The project presentation displays a demonstration of fake news detection.
 
 # Sample Result
