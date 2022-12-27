@@ -6,7 +6,7 @@ To better structure the project's lifecycle, the project is produced using a Pro
 
 # Project Management Plan 
 
-Project Summary: Project Summary
+#Project Summary: Project Summary
 
 The brief of the project overview, objectives and team members details.
 
