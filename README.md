@@ -6,7 +6,8 @@ To better structure the project's lifecycle, the project is produced using a Pro
 
 # Project Management Plan 
 
-**Project Summary:** [Project Summary](../A-Project Summary.md)
+**Project Summary:** 
+[Project Summary](../A-Project Summary.md)
 
 The brief of the project overview, objectives and team members details.
 
