@@ -5,7 +5,7 @@ The definition of fake news is to include content that misdirects readers. Nowad
 To better structure the project's lifecycle, the project is produced using a Project Management Plan. To manage the project, several charting techniques such as Gantt Chart, Milestone Chart, and Work Breakdown Structure (WBS) are employed.
 
 # Company Organization 
-[Click Here](/Project-Management-Plan/G-Computer-Organization.md)
+[Click Here](/Project-Management-Plan/G-Company-Organization.md)
 # Project Management Plan 
 
 **Project Summary:** [Project Summary](/Project-Management-Plan/A-Project-Summary.md)
