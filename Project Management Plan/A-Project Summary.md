@@ -25,7 +25,7 @@ In this day and age, it is extremely difficult to decide whether the news we com
 This project will examine the performance of various models in the process of classifying fake news from text document using multiple machine learning models 
 and performance measures.
 
-**Conclusion ;**<br>
+**Conclusion :**<br>
 In conclusion, this project will use a Machine Learning model to classify fake news using text document of fake news and real news. We will compare and choose 
 the best appropriate model for classifying the detection of fake news when we have completed all of the models.
 
