@@ -28,8 +28,6 @@ The project execution phase is where the outcome, coding blocks, and technical i
 
 Project Closing denotes the end of the project lifecycle, at which point the project must document the closing document and the lesson learned report.
 
-**Project Presentation:** [Project Presentation](/Project-Management-Plan/F-Project-Presentation.md)
 
-The project presentation displays a demonstration of fake news detection.
 
 # Sample Result
