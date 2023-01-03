@@ -20,7 +20,7 @@ A group of eager UTeM students that are interested in AI founded this startup. T
 
 **CHIEF OPERATING OFFICIAL (COO)**
 
-<img src="/assets/kar soon.jpg" width="300" height="auto" />
+<img src="/assets/kar soon.jpeg" width="300" height="auto" />
 
 **BEH KAR SOON**
 
