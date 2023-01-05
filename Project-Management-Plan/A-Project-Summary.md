@@ -40,4 +40,4 @@ the best appropriate model for classifying the detection of fake news when we ha
 
 
 
-
+**Next:** [Project Planning](/Project-Management-Plan/E-Project-Planning.md)
