@@ -2,6 +2,7 @@
 A group of eager UTeM students that are interested in AI founded this startup. They are passionate about AI software and products and want to make AI more widely available. Our company was based in Durian Tunggal,Melaka. The **Chief Executive Official (CEO)** of our company is VEENIDA A/P SUBON , the **Cheif Operating Official (COO)** is BEH KAR SOON and **Chief Financial Official (CFO)** is Muhammad Haziq Iskandar Bin Hanizal.
 
 # OUR MISSION
+Connecting startups and corporations, solutions and problems, talents and challenges to bring AI life.
 
 
 # Innovation
