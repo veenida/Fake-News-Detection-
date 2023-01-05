@@ -6,7 +6,7 @@ Connecting startups and corporations, solutions and problems, talents and challe
 
 
 # Innovation
-
+Our product can help improve transparency around fake claims and misinformation.
 
 # OUR TEAM
 **CHIEF EXECUTIVE OFFICIAL (CEO)**
