@@ -42,5 +42,9 @@ A group of eager UTeM students that are interested in AI founded this startup. T
 **MUHAMMAD HAZIQ ISKANDAR BIN HANIZAL**
 
 **Responsiblity :**
+1. Prepare reliable current and forecasting reports.
+2. Perform risk management.
+3. Ensure that the cash flow is adequate for the organization's activities.
+4. Make sure the project doesn't go beyond the budget's allotted amount.
 
 
