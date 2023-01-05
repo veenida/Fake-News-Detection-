@@ -15,6 +15,10 @@ A group of eager UTeM students that are interested in AI founded this startup. T
 **VEENIDA A/P SUBON**
 
 **Resposiblity :**
+1. In charge of an organization's strategic direction.
+2. Ensure that the project is completed by the deadline.
+3. Establishing standards for the environment and culture of the workplace
+4. Interact with other executives in positions of leadership.
 
 
 
