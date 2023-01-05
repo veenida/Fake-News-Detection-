@@ -1,5 +1,5 @@
 # ABOUT VESOONIS IT Sdn.Bhd
-A group of eager UTeM students that are interested in AI founded this startup. They are passionate about AI software and products and want to make AI more widely available. Our company was based in Durian Tunggal,Melaka. The **Chief Executive Official (CEO)** of our company is VEENIDA A/P SUBON , the **Cheif Operating Official (C00)** is BEH KAR SOON and **Chief Financial Official (CF0)** is Muhammad Haziq Iskandar Bin Hanizal
+A group of eager UTeM students that are interested in AI founded this startup. They are passionate about AI software and products and want to make AI more widely available. Our company was based in Durian Tunggal,Melaka. The **Chief Executive Official (CEO)** of our company is VEENIDA A/P SUBON , the **Cheif Operating Official (C00)** is BEH KAR SOON and **Chief Financial Official (CF0)** is Muhammad Haziq Iskandar Bin Hanizal.
 
 # OUR MISSION
 
@@ -17,7 +17,7 @@ A group of eager UTeM students that are interested in AI founded this startup. T
 **Resposiblity :**
 1. In charge of an organization's strategic direction.
 2. Ensure that the project is completed by the deadline.
-3. Establishing standards for the environment and culture of the workplace
+3. Establishing standards for the environment and culture of the workplace.
 4. Interact with other executives in positions of leadership.
 
 
