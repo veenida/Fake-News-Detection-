@@ -16,6 +16,8 @@
 
 **3.0 ORIGINAL AND ACTUAL SCHEDULE**
 
+Because the project participant follows the Gantt chart timetable, the actual progress follows the original plan.
+
 **4.0 ORIGINAL AND ACTUAL BUDGET**
 
 The actual budget matches the initial budget, indicating that the team adhered to the budget established at the start of the project and did not overspend.
