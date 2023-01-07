@@ -14,6 +14,8 @@
 
 **2.0 SUMMARY OF PROJECT RESULTS**
 
+We tested the correctness of the system when it was done. The system is 100% complete.
+
 **3.0 ORIGINAL AND ACTUAL SCHEDULE**
 
 Because the project participant follows the Gantt chart timetable, the actual progress follows the original plan.
