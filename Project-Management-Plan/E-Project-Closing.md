@@ -26,6 +26,8 @@ Because the project participant follows the Gantt chart timetable, the actual pr
 
 The actual budget matches the initial budget, indicating that the team adhered to the budget established at the start of the project and did not overspend.
 
+<img src="/assets/Budget.png" width="300" height="auto" />
+
 **5.0 PROJECT ASSESSMENT**
 
 **5.1 SCOPE**
