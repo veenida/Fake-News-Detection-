@@ -32,12 +32,12 @@ VESOONIS IT Sdn. Bhd. was able to meet the goals set out at the start of the pro
 
 The following are the primary tasks performed by VESOONIS IT professionals on the fake news detection system project:
 
-i) Keep maintainance the system if needed to update. 
+* Keep maintainance the system if needed to update. 
 
-ii) Provide user instructions for Astro Awani personnel to operate the system.
+* Provide user instructions for Astro Awani personnel to operate the system.
 
-iii) VESOONIS IT'Staff need to handling system failures and updates when have problem with the system
+* VESOONIS IT'Staff need to handling system failures and updates when have problem with the system
 
-iv) Submit monthly report to upper management.
+* Submit monthly report to upper management.
 
 **4. Close Contract**
