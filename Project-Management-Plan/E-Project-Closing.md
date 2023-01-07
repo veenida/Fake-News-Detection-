@@ -24,6 +24,8 @@
 
 **5.2 OBJECTIVES**
 
+VESOONIS IT Sdn. Bhd. was able to meet the goals set out at the start of the project. A system powered by artificial intelligence that employs machine learning and deep learning techniques has been created. In this project, machine learning is utilised to distinguish between real and fake news. Using a Deep Learning model, it can predict fake news using multiple models and compare which model has the highest accuracy. Furthermore, FAST API is utilised to create the python software that is used to predict the text which is fake news into an HTML webpage. Our goal of constructing a fake news detector in the system was met by employing this strategy.
+
 **5.3 IMPACTS**
 
 **6.0 TRANSITION PLAN**
