@@ -38,7 +38,7 @@ Our product can help improve transparency around fake claims and misinformation.
 
 **CHIEF FINANCIAL OFFICIAL (CFO)**
 
-<img src="/assets/haziq.jpg" width="300" height="auto" />
+<img src="/assets/Haziq_Iskandar.jpg" width="300" height="auto" />
 
 **MUHAMMAD HAZIQ ISKANDAR BIN HANIZAL**
 
