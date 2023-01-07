@@ -5,12 +5,12 @@
 
 ## PROJECT DESIGN AND CODING
 
-PART 1: FLOWCHART OF THE PROJECT
+**PART 1: FLOWCHART OF THE PROJECT**
 
 <img src="../assets/flowchart for aipm.drawio.jpg" width="50%">
 
 
-PART 2: DESCRIPTION OF THE PROJECT
+**PART 2: DESCRIPTION OF THE PROJECT**
 
 Library and package require:
 
