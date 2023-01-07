@@ -22,6 +22,8 @@
 
 **5.1 SCOPE**
 
+The VESOONIS IT. fake news system was designed to create an artificial intelligence system capable of detecting fake news on social media. Furthermore, one of the goals of VESOONIS IT. is to develop a system capable of prediction the text that was uploaded in the website. Not only that, but we want to provide an interface on the website to help the company predict it.
+
 **5.2 OBJECTIVES**
 
 VESOONIS IT Sdn. Bhd. was able to meet the goals set out at the start of the project. A system powered by artificial intelligence that employs machine learning and deep learning techniques has been created. In this project, machine learning is utilised to distinguish between real and fake news. Using a Deep Learning model, it can predict fake news using multiple models and compare which model has the highest accuracy. Furthermore, FAST API is utilised to create the python software that is used to predict the text which is fake news into an HTML webpage. Our goal of constructing a fake news detector in the system was met by employing this strategy.
