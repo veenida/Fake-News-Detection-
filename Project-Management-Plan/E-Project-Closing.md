@@ -12,6 +12,8 @@
 
 **1.0 PROJECT OBJECTIVES**
 
+The fake news detection system done by VESOONIS IT. was intended to develop an artificial intelligence system that are able to detect fake news using text documents . Besides, one of the aims of VESOONIS IT. is to develop a system that are able to  to detect fake news and genuine news in social media. So, our project will help to reduce the issue of fake news spreading on the internet
+
 **2.0 SUMMARY OF PROJECT RESULTS**
 
 We tested the correctness of the system when it was done. The system is 100% complete.
