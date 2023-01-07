@@ -28,6 +28,8 @@ VESOONIS IT Sdn. Bhd. was able to meet the goals set out at the start of the pro
 
 **5.3 IMPACTS**
 
+By establishing this system, fake news that often spreads on social media can be avoided at an early stage. This can reduce one's trust in the news and avoid spreading the news to others on social media. Therefore, companies can identify fake news and reduce its spread by using this system.
+
 **6.0 TRANSITION PLAN**
 
 The following are the primary tasks performed by VESOONIS IT professionals on the fake news detection system project:
