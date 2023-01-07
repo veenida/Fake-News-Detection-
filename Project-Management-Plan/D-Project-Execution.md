@@ -37,8 +37,13 @@ On the other hand , we test the model by enter input randomly.This step must be 
 
 <img src="../assets/f.jpg" width="50%">
 
-Last , we make it become a web based system by using Flask.Flask is a micro web framework written in Python.
+Moreovwe , we make it become a web based system by using Flask.Flask is a micro web framework written in Python.
 
+Last but not least , in web based we need to make GUI by using html and css. For the app.py , we need to create a function for home and prediction.
+
+<img src="../assets/flask.jpg" width="50%">
+
+Final step : Run app.py only to get the Ip address.
 
 # Project Result
 Result using flask
