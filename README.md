@@ -31,3 +31,9 @@ Project Closing denotes the end of the project lifecycle, at which point the pro
 
 
 # Sample Result
+
+For Fake News
+<img src="../assets/s1.jpg" width="100%">
+
+For Real News
+<img src="../assets/s2.jpeg" width="100%">
