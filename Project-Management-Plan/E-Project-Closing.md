@@ -4,7 +4,11 @@
 
 **1. Customer Acceptance Form**
 
+<img src="/assets/Acceptance Form.jpg" width="50%" />
+
 **2. Lessons Learned Document**
+
+<img src="/assets/Lesson-Learned Document.jpg" width="50%" />
 
 **3. Final Project Report**
 
@@ -25,6 +29,8 @@ Because the project participant follows the Gantt chart timetable, the actual pr
 **4.0 ORIGINAL AND ACTUAL BUDGET**
 
 The actual budget matches the initial budget, indicating that the team adhered to the budget established at the start of the project and did not overspend.
+
+<img src="/assets/budget.jpg" width="50%" />
 
 **5.0 PROJECT ASSESSMENT**
 
@@ -53,3 +59,5 @@ The following are the primary tasks performed by VESOONIS IT professionals on th
 * Submit monthly report to upper management.
 
 **4. Close Contract**
+
+<img src="/assets/Closed Contract Form.jpg" width="50%" />
