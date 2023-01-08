@@ -20,7 +20,7 @@ A work breakdown structure (WBS) is created to map all the necessary tasks and d
 
 In this fake news detection project, we need to identify the scope of the project. For instance, the project will not accept documents or text that violates the requirement provided by the system to avoid error. For example, the text or documents are not written in English will not be acceptable. Besides, this project scope down the limit of the project by only detecting and recognizing ENglish alphabet and number character. Therefore, country that do not use English as first language might not be able to use this system.
 
-
+### Risk Identification Chart (Quality, Cost, Time)
 
 
 
