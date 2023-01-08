@@ -60,4 +60,4 @@ The following are the primary tasks performed by VESOONIS IT professionals on th
 
 **4. Close Contract**
 
-<img src="/assets/Close Contract.jpg" width="50%" />
+<img src="/assets/Closed Contract Form.jpg" width="50%" />
