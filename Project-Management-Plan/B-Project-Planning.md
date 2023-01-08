@@ -7,8 +7,8 @@ The project management life cycle creates a guidelines for VESOONIS staff to fol
 
 Project management WBS is shown in the Gantt Chart below:
 
-<img src="assets/WBS1.png" width="100%">
-<img src="assets/WBS2.png" width="100%">
+<img src="/assets/WBS1.png" width="100%">
+<img src="/assets/WBS2.png" width="100%">
 
 
 
