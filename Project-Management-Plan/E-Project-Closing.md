@@ -3,7 +3,7 @@
 **Closing Checklist**
 
 **1. Customer Acceptance Form**
-<img src="/assets/Acceptance Form.jpg" width="100%" />
+<img src="/assets/Acceptance Form.jpg" width="50%" />
 
 **2. Lessons Learned Document**
 <img src="/assets/budget.jpg" width="100%" />
