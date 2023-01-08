@@ -3,8 +3,10 @@
 **Closing Checklist**
 
 **1. Customer Acceptance Form**
+<img src="/assets/budget.jpg" width="100%" />
 
 **2. Lessons Learned Document**
+<img src="/assets/budget.jpg" width="100%" />
 
 **3. Final Project Report**
 
