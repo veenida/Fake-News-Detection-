@@ -8,7 +8,7 @@
 
 **2. Lessons Learned Document**
 
-<img src="/assets/Lessons-Learned Document.jpg" width="50%" />
+<img src="/assets/Lesson-Learned Document.jpg" width="50%" />
 
 **3. Final Project Report**
 
