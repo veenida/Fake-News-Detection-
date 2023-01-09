@@ -18,7 +18,16 @@ Passive Aggressive Classifier Architecture:<br>
 2 main steps will be applied in our system, which is text pre-processing and fake news detection. Given a dataset of news articles, the first step is to generate TF-IDF which refers to Term Frequency-Inverse Document Frequency to see the importance of each word to a corpus and removing stopwords so that we will only see high-level information words in the TF-IDF. The processed data is the splitted into training and testing data, and were fit into Passive Aggressive Classifier for fake news detection.<br>
 <img src="/assets/Implementation.png" width = 60%>
 
+### Tasks and Estimated Costs
 
+| Task |  Estimated Costs | Notes |
+|-----|----|----|
+|   Server Maintenance         |$24000                         |  Monthly Cloud Server      |      
+|   Construction supervision   |$30000                         | Supervision on the project | 
+|   Cultural resources         |$72000                         |  Investigate and evaluate undertaking                                                 |                              |
+|   Equipment and equipment use|$800                           | Equipment preparation and setup                                                       |                              |
+|   Project signs              |$400                           |  Installation of project signs     |                            |
+|   TOTAL                      |$127200                        |  Estimated     |                              |
 
 
 
