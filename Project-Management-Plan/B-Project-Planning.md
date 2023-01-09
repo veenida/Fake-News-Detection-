@@ -24,7 +24,7 @@ In this fake news detection project, we need to identify the scope of the projec
 
 | Control Element | What is likely to go wrong? | How and when will I know? | What will I do about it? |
 |-----|----|-------|-----|
-|Quality <br> (Poor attitude toward quality; substandard design, materials, and workmanship; inadequate quality assurance program)|1. Inadequate Quality Assurance Program: The system confused with car plate number recognition <br> (Ex. digit 0 and letter o) <br><br> 2. Inadequate Quality Assurance Program: The quality of the AI model is biased towards a certain design of the car plate.
+|Quality <br> (Poor attitude toward quality; substandard design, materials, and workmanship; inadequate quality assurance program)|1. Substandard design, materials, and workmanship: The design of the API makes it harder for user to use <br> (How to submit text or file and what type of file can be submitted) |How: Feedback from tester <br><br> When: The problem of interface design will be determined during the unit testing phase| Have one member to keep track of the feedback from testers for continuous update of interface design|
 
 
 
