@@ -1,3 +1,4 @@
+
 # PROJECT OVERVIEW
 ## B. PLANNING THE PROJECT
 
@@ -25,6 +26,8 @@ In this fake news detection project, we need to identify the scope of the projec
 | Control Element | What is likely to go wrong? | How and when will I know? | What will I do about it? |
 |-----|----|-------|-----|
 |Quality <br> (Poor attitude toward quality; substandard design, materials, and workmanship; inadequate quality assurance program)|1. Substandard design, materials, and workmanship: The design of the API makes it harder for user to use <br> (How to submit text or file and what type of file can be submitted) |How: Feedback from tester <br><br> When: The problem of interface design will be determined during the unit testing phase| Have one member to keep track of the feedback from testers for continuous update of interface design|
+|Cost <br> (Estimating errors; inadequate productivity, cost, change, or contingency)| 1. Contingency: The costing of the server will be spike if one of the developer forget to shutdown the EC2 instance when not using it. | How: The monthly bills shows unexpected extra charged to the bills.<br><br>When: The problem most probably will be encountered during the project execution and project implementation.| Notify the owner through email or discord whenever budget exceed threshold in the AWS cloud computing service. |
+|Time <br> (Errors in estimating time or resource availability; errors in determining the critical path; poor allocation and management of float; early release of competitive products) | 1. Project not able to reach the milestone set  as described in the Gantt Chart. <br><br> 2. Erros in estimating resource availability: There are not enough server to be used to run the car plate recognition model training  |How: The members are stuck with a certain problem and drag all the other team members <br><br> When: The problem will be encountered during the project excution and monitoring phase.| Ask support from the other team member and switch their task or job to other job to avoid him/her to stuck in the problem loop.|
 
 
 
