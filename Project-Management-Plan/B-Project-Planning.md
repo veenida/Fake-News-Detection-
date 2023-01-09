@@ -13,7 +13,7 @@ Project management WBS is shown in the Gantt Chart below:
 
 As for the Fake News Detection Project, the system WBS are represented as follow. This WBS is constructed to breakdown the technical part of the project into several modules such as interface design, API management, and Fake News Detection:
 
-<img src="/assets/WBS FND.png" width="300" height="auto">
+<img src="/assets/WBS FND.png" width="100" >
 
 ### Scope
 
