@@ -22,9 +22,9 @@ In this fake news detection project, we need to identify the scope of the projec
 
 ### Risk Identification Chart (Quality, Cost, Time)
 
-
-
-
+| Control Element | What is likely to go wrong? | How and when will I know? | What will I do about it? |
+|-----|----|-------|-----|
+|Quality <br> (Poor attitude toward quality; substandard design, materials, and workmanship; inadequate quality assurance program)|1. Inadequate Quality Assurance Program: The system confused with car plate number recognition <br> (Ex. digit 0 and letter o) <br><br> 2. Inadequate Quality Assurance Program: The quality of the AI model is biased towards a certain design of the car plate.
 
 
 
