@@ -22,11 +22,11 @@ Passive Aggressive Classifier Architecture:<br>
 
 | Task |  Estimated Costs | Notes |
 |-----|----|----|
-|   Server Maintenance         |$24000                         |  Monthly Cloud Server      |      
-|   Construction supervision   |$30000                         | Supervision on the project | 
+|   Server Maintenance         |$21000                         |  Monthly Cloud Server      |      
+|   Construction supervision   |$32000                         | Supervision on the project | 
 |   Cultural resources         |$72000                         |  Investigate and evaluate undertaking                                                 |                              |
-|   Equipment and equipment use|$800                           | Equipment preparation and setup                                                       |                              |
-|   Project signs              |$400                           |  Installation of project signs     |                            |
+|   Equipment and equipment use|$1300                           | Equipment preparation and setup                                                       |                              |
+|   Project signs              |$900                           |  Installation of project signs     |                            |
 |   TOTAL                      |$127200                        |  Estimated     |                              |
 
 
