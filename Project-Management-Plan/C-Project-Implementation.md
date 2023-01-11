@@ -28,8 +28,10 @@ Passive Aggressive Classifier Architecture:<br>
 |   Equipment and equipment use|$1300                           | Equipment preparation and setup                                                       |                              |
 |   Project signs              |$900                           |  Installation of project signs     |                            |
 |   TOTAL                      |$127200                        |  Estimated     |                              |
-
-
+<br><br>
+#### Power Point:
+The milestones for our fake news detection project are indicated with the flags
+<img src="/assets/TMGC.png" width=100%>
 
 
 
